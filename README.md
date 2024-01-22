@@ -1,4 +1,4 @@
-YouTube Clone Application
+## YouTube Clone Application
 
 A comprehensive web application that emulates the simple functionality the YouTube platform, utilizing the
 YouTube Data API (V3) to access and display essential video content. The project was developed using Material
